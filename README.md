@@ -9,7 +9,8 @@ because my game logic was realy complex and strongly coupling to the render proc
 create an integration test set was the only way to continue developping without became totaly mad :)
 
 # Tested with phaserJS
-Screen cast is coming
+
+[screencast demo](https://youtu.be/_5SFM2EDZ_I)
 
 # Is à good way for real video game test integration
 because nowdays testing game is hard
